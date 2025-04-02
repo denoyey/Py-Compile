@@ -41,8 +41,6 @@
   </h2>
 </div>
 
-<br>
-
 ### STEP 1
 ```sh
 git clone https://github.com/denoyey/Py-Compile.git

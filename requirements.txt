@@ -1,0 +1,4 @@
+termcolor
+setuptools
+Cython
+subdora

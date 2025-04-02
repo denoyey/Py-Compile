@@ -34,7 +34,7 @@
 
 #### Step 1
 ```sh
-pip install cython --break-system-packages
+pip install -r requirements.txt --break-system-packages
 ```
 
 #### Run

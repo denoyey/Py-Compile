@@ -4,6 +4,6 @@
 
 import os, sys
 try:
-    __import__("compile") # Bisa menambahkan .main() --> isi sesuai fungsi yg mau dipanggil
+    __import__("compile")
 except Exception as e:
     exit(str(e))

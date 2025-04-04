@@ -1,6 +1,6 @@
 <div align="left">
   <h2>
-    Py-Compile
+    🐍 Py-Compile
   </h2>
 </div>
 
@@ -13,7 +13,7 @@
 <br>
 
 <div align="left">
-  <h2>Features</h2>
+  <h2>🛠️ Features</h2>
   <ul>
       <li>Convert Python scripts to Cython files</li>
       <li>Enhance performance through Cython compilation</li>
@@ -25,7 +25,7 @@
 
 <div align="left">
   <h2>
-    Screenshot
+    📸 Screenshot
   </h2>
 </div>
 
@@ -37,26 +37,26 @@
 
 <div align="left">
   <h2>
-    Installation
+    ⚙️ Installation
   </h2>
 </div>
 
-### STEP 1
+#### STEP 1
 ```sh
 git clone https://github.com/denoyey/Py-Compile.git
 ```
-### STEP 2
+#### STEP 2
 ```sh
 cd Py-Compile
 ```
-### STEP 3
+#### STEP 3
 ```sh
 pip install -r requirements.txt --break-system-packages
 ```
 
 <br>
 
-<h2>Usage</h2>
+<h2>🔥 Usage</h2>
 
 <p>To use Py-Compile, run the following command:</p>
 
@@ -74,7 +74,7 @@ python3 run.py
 
 <br>
 
-<h2>License</h2>
+<h2>⚠️ License</h2>
 
 <p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
 

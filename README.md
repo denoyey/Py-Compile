@@ -6,7 +6,10 @@
 
 <div align="left">
   <p>
-    Py-Compile adalah alat untuk mengompilasi dan mengaburkan kode Python. Alat ini berguna untuk mengubah skrip Python menjadi format yang lebih aman, sehingga lebih sulit untuk dibaca atau dibalikkan oleh orang lain. Dengan Py-Compile, kamu bisa melindungi kode Python yang kamu buat sebelum mendistribusikannya. Repositori ini juga menyediakan cara untuk mengenkripsi dan menjalankan kode Python dengan cara yang lebih aman.
+    <b>[EN]</b> <br> Py-Compile is a tool for compiling and obfuscating Python code. This tool is useful for converting Python scripts into a more secure format, making it harder for others to read or reverse-engineer. With Py-Compile, you can protect the Python code you create before distributing it. This repository also provides a way to encrypt and execute Python code in a more secure manner.
+  </p>
+  <p>
+    <b>[ID]</b> <br> Py-Compile adalah alat untuk mengompilasi dan mengaburkan kode Python. Alat ini berguna untuk mengubah skrip Python menjadi format yang lebih aman, sehingga lebih sulit untuk dibaca atau dibalikkan oleh orang lain. Dengan Py-Compile, kamu bisa melindungi kode Python yang kamu buat sebelum mendistribusikannya. Repositori ini juga menyediakan cara untuk mengenkripsi dan menjalankan kode Python dengan cara yang lebih aman.
   </p>
 </div>
 

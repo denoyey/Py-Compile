@@ -2,3 +2,4 @@ termcolor
 setuptools
 Cython
 subdora
+psutil

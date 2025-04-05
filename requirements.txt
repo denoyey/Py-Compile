@@ -3,3 +3,4 @@ setuptools
 Cython
 subdora
 psutil
+python-minifier
